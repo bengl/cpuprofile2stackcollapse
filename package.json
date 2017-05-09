@@ -1,0 +1,26 @@
+{
+  "name": "cpuprofile2stackcollapse",
+  "version": "1.0.0",
+  "description": "Convert .cpuprofile files to \"folded\" stacks for flamegraph.pl",
+  "main": "index.js",
+  "bin": "index.js",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/bengl/cpuprofile2stackcollapse.git"
+  },
+  "keywords": [
+    "cpuprofile",
+    "stackcollapse",
+    "flamegraph"
+  ],
+  "files": [],
+  "author": "Bryan English <bryan@bryanenglish.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bengl/cpuprofile2stackcollapse/issues"
+  },
+  "homepage": "https://github.com/bengl/cpuprofile2stackcollapse#readme"
+}
